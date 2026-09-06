@@ -1134,11 +1134,7 @@
       "heading": {
         "id": "bearer-credentials",
         "href": "https://w3c.github.io/vc-data-model/#bearer-credentials",
-        "title": "Bearer Credentials",
-        "alternateIds": [
-          "x8-2-bearer-credentials"
-        ],
-        "number": "8.2"
+        "title": "Bearer Credentials"
       },
       "definedIn": "prose",
       "links": []

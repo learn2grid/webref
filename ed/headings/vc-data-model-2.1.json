@@ -160,26 +160,26 @@
       "number": "4.4"
     },
     {
-      "id": "sd-jwt-claim-EPA7yZw4rs4b3juipN8E5clndKhIcoBf4j3x88lzm90",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-EPA7yZw4rs4b3juipN8E5clndKhIcoBf4j3x88lzm90",
+      "id": "sd-jwt-claim-j6fte2K3qQJSap0NfotcWR5ghIBcsqzU8tS046xRTJ8",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-j6fte2K3qQJSap0NfotcWR5ghIBcsqzU8tS046xRTJ8",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-dNiOZ-kYyvLTs_nPn_RS72WmGRhZ-gsNVgYmTdcBG4s",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-dNiOZ-kYyvLTs_nPn_RS72WmGRhZ-gsNVgYmTdcBG4s",
+      "id": "sd-jwt-claim-hr4u8NtWGWudkDradvW_xK2dCVAdRPo2Zo_G_G_ZjsI",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-hr4u8NtWGWudkDradvW_xK2dCVAdRPo2Zo_G_G_ZjsI",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-qcWIx9UfeBIgfClpPEf96INkVbiFfnc4T09xVXGcGgQ",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-qcWIx9UfeBIgfClpPEf96INkVbiFfnc4T09xVXGcGgQ",
+      "id": "sd-jwt-claim-U9WTHRYZjvW3-CzrgwtiaD0WneaipLbE60WTi7HtpMg",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-U9WTHRYZjvW3-CzrgwtiaD0WneaipLbE60WTi7HtpMg",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-H-r5WdzV6kXQNR90HTP8FTLMkGTmth450dtDTulgmC4",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-H-r5WdzV6kXQNR90HTP8FTLMkGTmth450dtDTulgmC4",
+      "id": "sd-jwt-claim-yb2Wt3muATspIi0ELjXdId2iNs7LJdAJvlB0p5bPN-U",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-yb2Wt3muATspIi0ELjXdId2iNs7LJdAJvlB0p5bPN-U",
       "level": 3,
       "title": "Claim: type"
     },
@@ -194,26 +194,26 @@
       "number": "4.5"
     },
     {
-      "id": "sd-jwt-claim-kJFBoMn8ida0PHHDBbScuir1A-7iOEtSdzYsqD1mh8U",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-kJFBoMn8ida0PHHDBbScuir1A-7iOEtSdzYsqD1mh8U",
+      "id": "sd-jwt-claim-8unuXZ_HVCK-Mtfba2LjzG3KgDb4cB4aL4OfmsInUsA",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-8unuXZ_HVCK-Mtfba2LjzG3KgDb4cB4aL4OfmsInUsA",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-0C24aHibcJmHeuM4DU54yJAEuHMYvaXJRC_ouqFbgkk",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-0C24aHibcJmHeuM4DU54yJAEuHMYvaXJRC_ouqFbgkk",
+      "id": "sd-jwt-claim-7XVUXKfMPSmZ2cuNT9Bi4rUZevzvFWPxUvwy_49iX4o",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-7XVUXKfMPSmZ2cuNT9Bi4rUZevzvFWPxUvwy_49iX4o",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-lml4_-iKOcBaztiwnsN6fcIwifauG15ygLU-Ox28sCI",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-lml4_-iKOcBaztiwnsN6fcIwifauG15ygLU-Ox28sCI",
+      "id": "sd-jwt-claim-ytwM5SIH3FbdQYI6nY_EBeja8e0RJrsrl1uORfK6UpI",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-ytwM5SIH3FbdQYI6nY_EBeja8e0RJrsrl1uORfK6UpI",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-WIQj15eyr-EGhjOCso3fMUJlhxqYHD5NcNybezaMAtk",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-WIQj15eyr-EGhjOCso3fMUJlhxqYHD5NcNybezaMAtk",
+      "id": "sd-jwt-claim-UXzXSHl_5oeDJUpU7Bo12qtVif93AdJDSIUiCKO4nco",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-UXzXSHl_5oeDJUpU7Bo12qtVif93AdJDSIUiCKO4nco",
       "level": 3,
       "title": "Claim: type"
     },
@@ -228,32 +228,32 @@
       "number": "4.6"
     },
     {
-      "id": "sd-jwt-claim-igMIxhG1kbvXCzuBomnvJMkC66BqSlR_AHeSka_jg6Y",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-igMIxhG1kbvXCzuBomnvJMkC66BqSlR_AHeSka_jg6Y",
+      "id": "sd-jwt-claim-mBfA0UIg9Cn5sZIrGgHva-7VMjW775ZRO92UkTqbRwo",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-mBfA0UIg9Cn5sZIrGgHva-7VMjW775ZRO92UkTqbRwo",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-bGEBI7m32WzOtd5_QquHznl_ZmwlTIUoy9cLnE2ri2o",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-bGEBI7m32WzOtd5_QquHznl_ZmwlTIUoy9cLnE2ri2o",
+      "id": "sd-jwt-claim-wbbQw9BtnlfoMI57hPG9Y__WLZqpshsPt8KG9xQsu5Y",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-wbbQw9BtnlfoMI57hPG9Y__WLZqpshsPt8KG9xQsu5Y",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-p77YKJI-MedcyLtGSsmm-VEa1NEyVWKhjvpfHlVWHwE",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-p77YKJI-MedcyLtGSsmm-VEa1NEyVWKhjvpfHlVWHwE",
+      "id": "sd-jwt-claim-TEVPoTjkols_lzcOcN59sWPiANePm9YnMhXlOdPKeyQ",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-TEVPoTjkols_lzcOcN59sWPiANePm9YnMhXlOdPKeyQ",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-R4S23EsXIe_VJ1dkzb4u9yxPxjWo3UcQweX7FqWvX3c",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-R4S23EsXIe_VJ1dkzb4u9yxPxjWo3UcQweX7FqWvX3c",
+      "id": "sd-jwt-claim-b6O4FzLxaB8SPkxIPs-afbr0DHOfhN4TeitHOGlfKV8",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-b6O4FzLxaB8SPkxIPs-afbr0DHOfhN4TeitHOGlfKV8",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-mF0jKyWsrgGPHwnCHHYaeisilzWwfum5lHq_7xYu25g",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-mF0jKyWsrgGPHwnCHHYaeisilzWwfum5lHq_7xYu25g",
+      "id": "sd-jwt-claim-Pp7eINk2C2zm8fgDUblx7nhLMBe6NbojPCCiYVcMe5A",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-Pp7eINk2C2zm8fgDUblx7nhLMBe6NbojPCCiYVcMe5A",
       "level": 3,
       "title": "Claim: type"
     },
@@ -268,56 +268,56 @@
       "number": "4.7"
     },
     {
-      "id": "sd-jwt-claim-xmC15lq1z5lSStQi_kbgNmTRG7hthhZqAIpFjH2zx1Q",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-xmC15lq1z5lSStQi_kbgNmTRG7hthhZqAIpFjH2zx1Q",
+      "id": "sd-jwt-claim-vGImi6UAk9F11E9lepq5Ar2dZXvIX_Q2Vum7JtkqlDI",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-vGImi6UAk9F11E9lepq5Ar2dZXvIX_Q2Vum7JtkqlDI",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-y3NUBSlKeCk5arJlQu3PVeLTQ2AmlkTaJ8-bjX8IE8I",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-y3NUBSlKeCk5arJlQu3PVeLTQ2AmlkTaJ8-bjX8IE8I",
+      "id": "sd-jwt-claim-RJUFzNQ-p9zeBf3s9SwpivlN2H6QaA-u1BcmYoLATow",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-RJUFzNQ-p9zeBf3s9SwpivlN2H6QaA-u1BcmYoLATow",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-59xTG03AG79mhrSfQP0BLgoFQFW8nLBrGP6zBGRQg48",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-59xTG03AG79mhrSfQP0BLgoFQFW8nLBrGP6zBGRQg48",
+      "id": "sd-jwt-claim-ZLrc--4Atxu9_CUad7JX6Go0wfBqsdiQE3zXBAmY7E4",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-ZLrc--4Atxu9_CUad7JX6Go0wfBqsdiQE3zXBAmY7E4",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-yofJfCAHXLXgw8Zj0bb-rluBpfoPEe_0Ided4u3kuLY",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-yofJfCAHXLXgw8Zj0bb-rluBpfoPEe_0Ided4u3kuLY",
+      "id": "sd-jwt-claim-e0T-ZI7pMeUes_M7cwXM64glCx1ZClp5caTtLei70LQ",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-e0T-ZI7pMeUes_M7cwXM64glCx1ZClp5caTtLei70LQ",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-j2yK9Eb54zQI8SviLFHdauG1okiVnRqXjCrER9veh1A",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-j2yK9Eb54zQI8SviLFHdauG1okiVnRqXjCrER9veh1A",
+      "id": "sd-jwt-claim-DOQxmTkb7EyJwMybCM6JehhJdlufAxil2Sa8IX1F7jw",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-DOQxmTkb7EyJwMybCM6JehhJdlufAxil2Sa8IX1F7jw",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-IvrNIw6MVh1khd7uqY9G_ZkXhIj7EHgV_OcZKUUAzFg",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-IvrNIw6MVh1khd7uqY9G_ZkXhIj7EHgV_OcZKUUAzFg",
+      "id": "sd-jwt-claim-8QvJXIKYr97lmYwvOfpIJa3uN91YMnvTtF4pQPim-DE",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-8QvJXIKYr97lmYwvOfpIJa3uN91YMnvTtF4pQPim-DE",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-aGn5FhUzaVBaxw6nNKFfNfwnFyDnTvZYkPFMC1BxTd0",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-aGn5FhUzaVBaxw6nNKFfNfwnFyDnTvZYkPFMC1BxTd0",
+      "id": "sd-jwt-claim-ppi_sEJ2d2OfNt6rxNu6O7YmFiU_xl2Dh9aBTIg89R4",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-ppi_sEJ2d2OfNt6rxNu6O7YmFiU_xl2Dh9aBTIg89R4",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-nffjrjO4pqgj7tIEW5GPjxVRLAK1zsQiT0bfhgSCnE4",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-nffjrjO4pqgj7tIEW5GPjxVRLAK1zsQiT0bfhgSCnE4",
+      "id": "sd-jwt-claim-33JF41VRUawxBlcoZTReyn3XwzX2IKow_8p7r48Wc0w",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-33JF41VRUawxBlcoZTReyn3XwzX2IKow_8p7r48Wc0w",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-4T4bQKy7Ntjoz3yI2rE37SblHmK31UxaR7o-T_B1bsY",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-4T4bQKy7Ntjoz3yI2rE37SblHmK31UxaR7o-T_B1bsY",
+      "id": "sd-jwt-claim-dALObXj5WOVygACOTa6V4CxypzGeeYe6_VCQ5_c_-qc",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-dALObXj5WOVygACOTa6V4CxypzGeeYe6_VCQ5_c_-qc",
       "level": 3,
       "title": "Claim: type"
     },
@@ -332,26 +332,26 @@
       "number": "4.8"
     },
     {
-      "id": "sd-jwt-claim-ePxBgCl_-VHjC0xdXTYhBYkdIjOeaOzlTaXrBS02Dp8",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-ePxBgCl_-VHjC0xdXTYhBYkdIjOeaOzlTaXrBS02Dp8",
+      "id": "sd-jwt-claim-wtZNkKTIe7x6l-SsrS945YvZwVxiExEdQh5oMJx_JoE",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-wtZNkKTIe7x6l-SsrS945YvZwVxiExEdQh5oMJx_JoE",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-sR-LDkvKwryfq0yzO5-QNscNUcOA6LJW-8Z5-PhF9zw",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-sR-LDkvKwryfq0yzO5-QNscNUcOA6LJW-8Z5-PhF9zw",
+      "id": "sd-jwt-claim-4g8tsqNxwwFXGmvsN0-sN10pH2POLJsAuf1NqsTAN1A",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-4g8tsqNxwwFXGmvsN0-sN10pH2POLJsAuf1NqsTAN1A",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-6aFgB-GiFkEW8eEe7s9JVrxqSG1uSyKLqBrpZoVQOws",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-6aFgB-GiFkEW8eEe7s9JVrxqSG1uSyKLqBrpZoVQOws",
+      "id": "sd-jwt-claim-txlEg3sX-ZqJ7ckmlvm9BauRNRuVZRhNlu5OIJpzzeI",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-txlEg3sX-ZqJ7ckmlvm9BauRNRuVZRhNlu5OIJpzzeI",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-d8vQn0SaRl2qqUzzHsYVPj311qc0uGsNxgQ09Ad94iM",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-d8vQn0SaRl2qqUzzHsYVPj311qc0uGsNxgQ09Ad94iM",
+      "id": "sd-jwt-claim-7DCzH5A9CJxi-GCqPgNs7ig5GVDDPdJgylQyP62peUA",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-7DCzH5A9CJxi-GCqPgNs7ig5GVDDPdJgylQyP62peUA",
       "level": 3,
       "title": "Claim: type"
     },
@@ -366,26 +366,26 @@
       "number": "4.9"
     },
     {
-      "id": "sd-jwt-claim-oCfziBjekRDGtXcFxoy8KVHinxpN5HKihir7u1XBh9I",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-oCfziBjekRDGtXcFxoy8KVHinxpN5HKihir7u1XBh9I",
+      "id": "sd-jwt-claim-HKMsP_my8gMlRMVWsjitnCMeuguXYAtcwKXb9rogYko",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-HKMsP_my8gMlRMVWsjitnCMeuguXYAtcwKXb9rogYko",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-nMVCKWcLlCGpsrIvpTZoRyjyDG301oDJ81ODBYksKYU",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-nMVCKWcLlCGpsrIvpTZoRyjyDG301oDJ81ODBYksKYU",
+      "id": "sd-jwt-claim-u_94YxoSiRGryZDQjZlq22aLdR15n5bacToNfMxluVY",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-u_94YxoSiRGryZDQjZlq22aLdR15n5bacToNfMxluVY",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-k0TaN6B7jlmLxykLSZeh7SZodzbutLZmgaf32tIy4PQ",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-k0TaN6B7jlmLxykLSZeh7SZodzbutLZmgaf32tIy4PQ",
+      "id": "sd-jwt-claim-rEG3jGwtP9fNcyQpnMI8xBg7h__NxjjUGzV-0RO5aZU",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-rEG3jGwtP9fNcyQpnMI8xBg7h__NxjjUGzV-0RO5aZU",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-D3s9NNpS5kRo5mtW10fIsYXCNsRn-XS21dX-mL7IVVY",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-D3s9NNpS5kRo5mtW10fIsYXCNsRn-XS21dX-mL7IVVY",
+      "id": "sd-jwt-claim-UME1t8OBoObMx1ywz7Y0o5QkGWNLO1bvZjVWSHMi6R0",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-UME1t8OBoObMx1ywz7Y0o5QkGWNLO1bvZjVWSHMi6R0",
       "level": 3,
       "title": "Claim: type"
     },
@@ -484,20 +484,20 @@
       "number": "5.2"
     },
     {
-      "id": "sd-jwt-claim-neGPrvIUrtIvk6GasJDZ-7dLAesNZ7LzYUhOko1kIHg",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-neGPrvIUrtIvk6GasJDZ-7dLAesNZ7LzYUhOko1kIHg",
+      "id": "sd-jwt-claim-EcEjuSWoFjOpums1fyu2GfDk_ioN69reJefL4qmSapQ",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-EcEjuSWoFjOpums1fyu2GfDk_ioN69reJefL4qmSapQ",
       "level": 3,
       "title": "Claim: id"
     },
     {
-      "id": "sd-jwt-claim-XtKgGNyWDski9vdj92yVSh9yaOqGfjvap3ui0pwDdm4",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-XtKgGNyWDski9vdj92yVSh9yaOqGfjvap3ui0pwDdm4",
+      "id": "sd-jwt-claim-rjckshrf_AduvtJG7exaAxVOtCk9spoqCSwpK4HWR5k",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-rjckshrf_AduvtJG7exaAxVOtCk9spoqCSwpK4HWR5k",
       "level": 3,
       "title": "Claim: type"
     },
     {
-      "id": "sd-jwt-claim-khqzkxpnqv6cqd2TBikgk7qciK0IR9xDBydZnxrW9tM",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-khqzkxpnqv6cqd2TBikgk7qciK0IR9xDBydZnxrW9tM",
+      "id": "sd-jwt-claim-1kVg8doDTkqLxUPOWlTDaqXQgdz5y2uyCd6TAk-Bk9w",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-1kVg8doDTkqLxUPOWlTDaqXQgdz5y2uyCd6TAk-Bk9w",
       "level": 3,
       "title": "Claim: id"
     },
@@ -712,81 +712,14 @@
       "number": "7.2"
     },
     {
-      "id": "privacy-considerations",
-      "href": "https://w3c.github.io/vc-data-model/#privacy-considerations",
-      "level": 2,
-      "title": "Privacy Considerations",
-      "alternateIds": [
-        "x8-privacy-considerations"
-      ],
-      "number": "8"
-    },
-    {
-      "id": "spectrum-of-privacy",
-      "href": "https://w3c.github.io/vc-data-model/#spectrum-of-privacy",
-      "level": 3,
-      "title": "Spectrum of Privacy",
-      "alternateIds": [
-        "x8-1-spectrum-of-privacy"
-      ],
-      "number": "8.1"
-    },
-    {
-      "id": "bearer-credentials",
-      "href": "https://w3c.github.io/vc-data-model/#bearer-credentials",
-      "level": 3,
-      "title": "Bearer Credentials",
-      "alternateIds": [
-        "x8-2-bearer-credentials"
-      ],
-      "number": "8.2"
-    },
-    {
-      "id": "sd-jwt-claim-4tLvB1D1Qwx4kZaACqLX2aFdzxdyFYzs_vFeB0I-Mjc",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-4tLvB1D1Qwx4kZaACqLX2aFdzxdyFYzs_vFeB0I-Mjc",
-      "level": 3,
-      "title": "Claim: id"
-    },
-    {
-      "id": "sd-jwt-claim-6cgPiKF2Y39iC3x0y1l8iUVH1yPE3br85JjYO_-bnTk",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-6cgPiKF2Y39iC3x0y1l8iUVH1yPE3br85JjYO_-bnTk",
-      "level": 3,
-      "title": "Claim: type"
-    },
-    {
-      "id": "sd-jwt-claim-dgBoMzSANp7ou9fnejjWlhOXXJeTzRiFnPfjgHaO5N0",
-      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-dgBoMzSANp7ou9fnejjWlhOXXJeTzRiFnPfjgHaO5N0",
-      "level": 3,
-      "title": "Claim: type"
-    },
-    {
-      "id": "private-browsing",
-      "href": "https://w3c.github.io/vc-data-model/#private-browsing",
-      "level": 3,
-      "title": "Private Browsing",
-      "alternateIds": [
-        "x8-3-private-browsing"
-      ],
-      "number": "8.3"
-    },
-    {
-      "id": "security-considerations",
-      "href": "https://w3c.github.io/vc-data-model/#security-considerations",
-      "level": 2,
-      "title": "Security Considerations",
-      "alternateIds": [
-        "x9-security-considerations"
-      ],
-      "number": "9"
-    },
-    {
       "id": "accessibility-considerations",
       "href": "https://w3c.github.io/vc-data-model/#accessibility-considerations",
       "level": 2,
-      "title": "10. Accessibility Considerations",
+      "title": "Accessibility Considerations",
       "alternateIds": [
-        "x10-accessibility-considerations"
-      ]
+        "x8-accessibility-considerations"
+      ],
+      "number": "8"
     },
     {
       "id": "data-first-approaches",
@@ -794,18 +727,19 @@
       "level": 3,
       "title": "Data First Approaches",
       "alternateIds": [
-        "x10-1-data-first-approaches"
+        "x8-1-data-first-approaches"
       ],
-      "number": "10.1"
+      "number": "8.1"
     },
     {
       "id": "internationalization-considerations",
       "href": "https://w3c.github.io/vc-data-model/#internationalization-considerations",
       "level": 2,
-      "title": "11. Internationalization Considerations",
+      "title": "Internationalization Considerations",
       "alternateIds": [
-        "x11-internationalization-considerations"
-      ]
+        "x9-internationalization-considerations"
+      ],
+      "number": "9"
     },
     {
       "id": "language-and-base-direction",
@@ -813,9 +747,9 @@
       "level": 3,
       "title": "Language and Base Direction",
       "alternateIds": [
-        "x11-1-language-and-base-direction"
+        "x9-1-language-and-base-direction"
       ],
-      "number": "11.1"
+      "number": "9.1"
     },
     {
       "id": "providing-default-language-and-direction",
@@ -823,9 +757,123 @@
       "level": 3,
       "title": "Providing Default Language and Direction",
       "alternateIds": [
-        "x11-2-providing-default-language-and-direction"
+        "x9-2-providing-default-language-and-direction"
       ],
-      "number": "11.2"
+      "number": "9.2"
+    },
+    {
+      "id": "threat-model",
+      "href": "https://w3c.github.io/vc-data-model/#threat-model",
+      "level": 2,
+      "title": "Threat Model",
+      "alternateIds": [
+        "a-threat-model"
+      ],
+      "number": "A"
+    },
+    {
+      "id": "target-threats",
+      "href": "https://w3c.github.io/vc-data-model/#target-threats",
+      "level": 3,
+      "title": "Target Threats",
+      "alternateIds": [
+        "a-1-target-threats"
+      ],
+      "number": "A.1"
+    },
+    {
+      "id": "implementation-threats",
+      "href": "https://w3c.github.io/vc-data-model/#implementation-threats",
+      "level": 3,
+      "title": "Implementation Threats",
+      "alternateIds": [
+        "a-2-implementation-threats"
+      ],
+      "number": "A.2"
+    },
+    {
+      "id": "deployment-threats",
+      "href": "https://w3c.github.io/vc-data-model/#deployment-threats",
+      "level": 3,
+      "title": "Deployment Threats",
+      "alternateIds": [
+        "a-3-deployment-threats"
+      ],
+      "number": "A.3"
+    },
+    {
+      "id": "external-threats",
+      "href": "https://w3c.github.io/vc-data-model/#external-threats",
+      "level": 3,
+      "title": "External Threats",
+      "alternateIds": [
+        "a-4-external-threats"
+      ],
+      "number": "A.4"
+    },
+    {
+      "id": "dependency-threats",
+      "href": "https://w3c.github.io/vc-data-model/#dependency-threats",
+      "level": 3,
+      "title": "Dependency Threats",
+      "alternateIds": [
+        "a-5-dependency-threats"
+      ],
+      "number": "A.5"
+    },
+    {
+      "id": "privacy-considerations",
+      "href": "https://w3c.github.io/vc-data-model/#privacy-considerations",
+      "level": 3,
+      "title": "Privacy Considerations",
+      "alternateIds": [
+        "privacy-considerations-0"
+      ]
+    },
+    {
+      "id": "spectrum-of-privacy",
+      "href": "https://w3c.github.io/vc-data-model/#spectrum-of-privacy",
+      "level": 4,
+      "title": "Spectrum of Privacy"
+    },
+    {
+      "id": "bearer-credentials",
+      "href": "https://w3c.github.io/vc-data-model/#bearer-credentials",
+      "level": 4,
+      "title": "Bearer Credentials"
+    },
+    {
+      "id": "sd-jwt-claim-ecnz4G2kXqZsG8Sr0bvqt9UJ9EZOcdBEPbeAga3C9NY",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-ecnz4G2kXqZsG8Sr0bvqt9UJ9EZOcdBEPbeAga3C9NY",
+      "level": 3,
+      "title": "Claim: id"
+    },
+    {
+      "id": "sd-jwt-claim-Aeui-H-FMwz74ZW55eIE7v8nZMgcu23KiuMGsp28t14",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-Aeui-H-FMwz74ZW55eIE7v8nZMgcu23KiuMGsp28t14",
+      "level": 3,
+      "title": "Claim: type"
+    },
+    {
+      "id": "sd-jwt-claim-UrmWcAPObTJ7L7sGrYpYo0fZ8mG-yoRcKGstPYhi6tQ",
+      "href": "https://w3c.github.io/vc-data-model/#sd-jwt-claim-UrmWcAPObTJ7L7sGrYpYo0fZ8mG-yoRcKGstPYhi6tQ",
+      "level": 3,
+      "title": "Claim: type"
+    },
+    {
+      "id": "private-browsing",
+      "href": "https://w3c.github.io/vc-data-model/#private-browsing",
+      "level": 4,
+      "title": "Private Browsing"
+    },
+    {
+      "id": "security-considerations",
+      "href": "https://w3c.github.io/vc-data-model/#security-considerations",
+      "level": 3,
+      "title": "Security Considerations",
+      "alternateIds": [
+        "security-considerations-0"
+      ]
     },
     {
       "id": "validation",
@@ -833,9 +881,9 @@
       "level": 2,
       "title": "Validation",
       "alternateIds": [
-        "a-validation"
+        "b-validation"
       ],
-      "number": "A"
+      "number": "B"
     },
     {
       "id": "credential-type",
@@ -843,9 +891,9 @@
       "level": 3,
       "title": "Credential Type",
       "alternateIds": [
-        "a-1-credential-type"
+        "b-1-credential-type"
       ],
-      "number": "A.1"
+      "number": "B.1"
     },
     {
       "id": "credential-subject-0",
@@ -853,9 +901,9 @@
       "level": 3,
       "title": "Credential Subject",
       "alternateIds": [
-        "a-2-credential-subject"
+        "b-2-credential-subject"
       ],
-      "number": "A.2"
+      "number": "B.2"
     },
     {
       "id": "issuer-0",
@@ -863,9 +911,9 @@
       "level": 3,
       "title": "Issuer",
       "alternateIds": [
-        "a-3-issuer"
+        "b-3-issuer"
       ],
-      "number": "A.3"
+      "number": "B.3"
     },
     {
       "id": "holder",
@@ -873,9 +921,9 @@
       "level": 3,
       "title": "Holder",
       "alternateIds": [
-        "a-4-holder"
+        "b-4-holder"
       ],
-      "number": "A.4"
+      "number": "B.4"
     },
     {
       "id": "issuance-date",
@@ -883,9 +931,9 @@
       "level": 3,
       "title": "Issuance Date",
       "alternateIds": [
-        "a-5-issuance-date"
+        "b-5-issuance-date"
       ],
-      "number": "A.5"
+      "number": "B.5"
     },
     {
       "id": "proofs-signatures",
@@ -893,9 +941,9 @@
       "level": 3,
       "title": "Proofs (Signatures)",
       "alternateIds": [
-        "a-6-proofs-signatures"
+        "b-6-proofs-signatures"
       ],
-      "number": "A.6"
+      "number": "B.6"
     },
     {
       "id": "validity-periods",
@@ -903,9 +951,9 @@
       "level": 3,
       "title": "Validity Periods",
       "alternateIds": [
-        "a-7-validity-periods"
+        "b-7-validity-periods"
       ],
-      "number": "A.7"
+      "number": "B.7"
     },
     {
       "id": "status-0",
@@ -913,9 +961,9 @@
       "level": 3,
       "title": "Status",
       "alternateIds": [
-        "a-8-status"
+        "b-8-status"
       ],
-      "number": "A.8"
+      "number": "B.8"
     },
     {
       "id": "schema",
@@ -923,9 +971,9 @@
       "level": 3,
       "title": "Schema",
       "alternateIds": [
-        "a-9-schema"
+        "b-9-schema"
       ],
-      "number": "A.9"
+      "number": "B.9"
     },
     {
       "id": "fitness-for-purpose",
@@ -933,9 +981,9 @@
       "level": 3,
       "title": "Fitness for Purpose",
       "alternateIds": [
-        "a-10-fitness-for-purpose"
+        "b-10-fitness-for-purpose"
       ],
-      "number": "A.10"
+      "number": "B.10"
     },
     {
       "id": "artificial-intelligence-and-machine-learning",
@@ -943,9 +991,9 @@
       "level": 3,
       "title": "\"Artificial Intelligence\" and \"Machine Learning\"",
       "alternateIds": [
-        "a-11-artificial-intelligence-and-machine-learning"
+        "b-11-artificial-intelligence-and-machine-learning"
       ],
-      "number": "A.11"
+      "number": "B.11"
     },
     {
       "id": "contexts-vocabularies-types-and-credential-schemas",
@@ -953,9 +1001,9 @@
       "level": 2,
       "title": "Contexts, Vocabularies, Types, and Credential Schemas",
       "alternateIds": [
-        "b-contexts-vocabularies-types-and-credential-schemas"
+        "c-contexts-vocabularies-types-and-credential-schemas"
       ],
-      "number": "B"
+      "number": "C"
     },
     {
       "id": "base-context",
@@ -963,9 +1011,9 @@
       "level": 3,
       "title": "Base Context",
       "alternateIds": [
-        "b-1-base-context"
+        "c-1-base-context"
       ],
-      "number": "B.1"
+      "number": "C.1"
     },
     {
       "id": "vocabularies",
@@ -973,9 +1021,9 @@
       "level": 3,
       "title": "Vocabularies",
       "alternateIds": [
-        "b-2-vocabularies"
+        "c-2-vocabularies"
       ],
-      "number": "B.2"
+      "number": "C.2"
     },
     {
       "id": "datatypes",
@@ -983,9 +1031,9 @@
       "level": 3,
       "title": "Datatypes",
       "alternateIds": [
-        "b-3-datatypes"
+        "c-3-datatypes"
       ],
-      "number": "B.3"
+      "number": "C.3"
     },
     {
       "id": "the-sristring-datatype",
@@ -993,9 +1041,9 @@
       "level": 4,
       "title": "The sriString Datatype",
       "alternateIds": [
-        "b-3-1-the-sristring-datatype"
+        "c-3-1-the-sristring-datatype"
       ],
-      "number": "B.3.1"
+      "number": "C.3.1"
     },
     {
       "id": "differences-between-contexts-types-and-credentialschemas",
@@ -1003,9 +1051,9 @@
       "level": 3,
       "title": "Differences between Contexts, Types, and CredentialSchemas",
       "alternateIds": [
-        "b-4-differences-between-contexts-types-and-credentialschemas"
+        "c-4-differences-between-contexts-types-and-credentialschemas"
       ],
-      "number": "B.4"
+      "number": "C.4"
     },
     {
       "id": "iana-considerations",
@@ -1013,9 +1061,9 @@
       "level": 2,
       "title": "IANA Considerations",
       "alternateIds": [
-        "c-iana-considerations"
+        "d-iana-considerations"
       ],
-      "number": "C"
+      "number": "D"
     },
     {
       "id": "vc-ld-media-type",
@@ -1023,9 +1071,9 @@
       "level": 3,
       "title": "application/vc",
       "alternateIds": [
-        "c-1-application-vc"
+        "d-1-application-vc"
       ],
-      "number": "C.1"
+      "number": "D.1"
     },
     {
       "id": "vp-ld-media-type",
@@ -1033,9 +1081,9 @@
       "level": 3,
       "title": "application/vp",
       "alternateIds": [
-        "c-2-application-vp"
+        "d-2-application-vp"
       ],
-      "number": "C.2"
+      "number": "D.2"
     },
     {
       "id": "additional-diagrams-for-verifiable-presentations",
@@ -1043,9 +1091,9 @@
       "level": 2,
       "title": "Additional Diagrams for Verifiable Presentations",
       "alternateIds": [
-        "d-additional-diagrams-for-verifiable-presentations"
+        "e-additional-diagrams-for-verifiable-presentations"
       ],
-      "number": "D"
+      "number": "E"
     },
     {
       "id": "revision-history",
@@ -1053,9 +1101,9 @@
       "level": 2,
       "title": "Revision History",
       "alternateIds": [
-        "e-revision-history"
+        "f-revision-history"
       ],
-      "number": "E"
+      "number": "F"
     },
     {
       "id": "acknowledgements",
@@ -1063,9 +1111,9 @@
       "level": 2,
       "title": "Acknowledgements",
       "alternateIds": [
-        "f-acknowledgements"
+        "g-acknowledgements"
       ],
-      "number": "F"
+      "number": "G"
     },
     {
       "id": "references",
@@ -1073,9 +1121,9 @@
       "level": 2,
       "title": "References",
       "alternateIds": [
-        "g-references"
+        "h-references"
       ],
-      "number": "G"
+      "number": "H"
     },
     {
       "id": "normative-references",
@@ -1083,9 +1131,9 @@
       "level": 3,
       "title": "Normative references",
       "alternateIds": [
-        "g-1-normative-references"
+        "h-1-normative-references"
       ],
-      "number": "G.1"
+      "number": "H.1"
     },
     {
       "id": "informative-references",
@@ -1093,9 +1141,9 @@
       "level": 3,
       "title": "Informative references",
       "alternateIds": [
-        "g-2-informative-references"
+        "h-2-informative-references"
       ],
-      "number": "G.2"
+      "number": "H.2"
     }
   ]
 }

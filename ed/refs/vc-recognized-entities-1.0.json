@@ -34,6 +34,10 @@
         "url": "https://www.w3.org/TR/vc-data-model-2.0/"
       },
       {
+        "name": "VC-RECOGNIZED-ENTITIES",
+        "url": "https://www.w3.org/TR/vc-recognized-entities-1.0/"
+      },
+      {
         "name": "vc-use-cases",
         "url": "https://www.w3.org/TR/vc-use-cases/"
       },

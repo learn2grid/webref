@@ -5,46 +5,93 @@
   },
   "dfns": [
     {
-      "id": "valdef-width-stretch",
-      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-width-stretch",
+      "id": "propdef-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#propdef-size",
       "linkingText": [
-        "stretch"
+        "size"
       ],
       "localLinkingText": [],
-      "type": "value",
-      "for": [
-        "width",
-        "height",
-        "inline-size",
-        "block-size",
-        "min-width",
-        "min-height",
-        "min-inline-size",
-        "min-block-size",
-        "max-width",
-        "max-height",
-        "max-inline-size",
-        "max-block-size"
-      ],
+      "type": "property",
+      "for": [],
       "access": "public",
       "informative": false,
       "heading": {
-        "id": "sizing-values",
-        "href": "https://www.w3.org/TR/css-sizing-4/#sizing-values",
-        "title": "New Sizing Values: the stretch, fit-content, and contain keywords",
-        "number": "3.2"
+        "id": "sizing-properties",
+        "href": "https://www.w3.org/TR/css-sizing-4/#sizing-properties",
+        "title": "Sizing Properties",
+        "number": "3.1"
       },
-      "definedIn": "dt",
+      "definedIn": "table",
       "links": []
     },
     {
-      "id": "valdef-width-fit-content",
-      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-width-fit-content",
+      "id": "propdef-min-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#propdef-min-size",
       "linkingText": [
-        "fit-content"
+        "min-size"
       ],
       "localLinkingText": [],
-      "type": "value",
+      "type": "property",
+      "for": [],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "sizing-properties",
+        "href": "https://www.w3.org/TR/css-sizing-4/#sizing-properties",
+        "title": "Sizing Properties",
+        "number": "3.1"
+      },
+      "definedIn": "table",
+      "links": []
+    },
+    {
+      "id": "propdef-max-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#propdef-max-size",
+      "linkingText": [
+        "max-size"
+      ],
+      "localLinkingText": [],
+      "type": "property",
+      "for": [],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "sizing-properties",
+        "href": "https://www.w3.org/TR/css-sizing-4/#sizing-properties",
+        "title": "Sizing Properties",
+        "number": "3.1"
+      },
+      "definedIn": "table",
+      "links": []
+    },
+    {
+      "id": "typedef-box-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#typedef-box-size",
+      "linkingText": [
+        "<box-size>"
+      ],
+      "localLinkingText": [],
+      "type": "type",
+      "for": [],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "sizing-values",
+        "href": "https://www.w3.org/TR/css-sizing-4/#sizing-values",
+        "title": "New Sizing Values: the contain, fit-content(), and calc-size() values",
+        "number": "3.2"
+      },
+      "definedIn": "pre",
+      "links": []
+    },
+    {
+      "id": "funcdef-width-fit-content",
+      "href": "https://www.w3.org/TR/css-sizing-4/#funcdef-width-fit-content",
+      "linkingText": [
+        "fit-content()"
+      ],
+      "localLinkingText": [],
+      "type": "function",
       "for": [
         "width",
         "height",
@@ -64,7 +111,7 @@
       "heading": {
         "id": "sizing-values",
         "href": "https://www.w3.org/TR/css-sizing-4/#sizing-values",
-        "title": "New Sizing Values: the stretch, fit-content, and contain keywords",
+        "title": "New Sizing Values: the contain, fit-content(), and calc-size() values",
         "number": "3.2"
       },
       "definedIn": "dt",
@@ -97,7 +144,40 @@
       "heading": {
         "id": "sizing-values",
         "href": "https://www.w3.org/TR/css-sizing-4/#sizing-values",
-        "title": "New Sizing Values: the stretch, fit-content, and contain keywords",
+        "title": "New Sizing Values: the contain, fit-content(), and calc-size() values",
+        "number": "3.2"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "funcdef-width-calc-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#funcdef-width-calc-size",
+      "linkingText": [
+        "calc-size()"
+      ],
+      "localLinkingText": [],
+      "type": "function",
+      "for": [
+        "width",
+        "height",
+        "inline-size",
+        "block-size",
+        "min-width",
+        "min-height",
+        "min-inline-size",
+        "min-block-size",
+        "max-width",
+        "max-height",
+        "max-inline-size",
+        "max-block-size"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "sizing-values",
+        "href": "https://www.w3.org/TR/css-sizing-4/#sizing-values",
+        "title": "New Sizing Values: the contain, fit-content(), and calc-size() values",
         "number": "3.2"
       },
       "definedIn": "dt",
@@ -354,10 +434,10 @@
       "links": []
     },
     {
-      "id": "valdef-contain-intrinsic-width-auto--length",
-      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-contain-intrinsic-width-auto--length",
+      "id": "valdef-contain-intrinsic-width-auto",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-contain-intrinsic-width-auto",
       "linkingText": [
-        "auto && <length>"
+        "auto"
       ],
       "localLinkingText": [],
       "type": "value",
@@ -420,6 +500,240 @@
       "links": []
     },
     {
+      "id": "responsive-iframes",
+      "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+      "linkingText": [
+        "responsively-sized iframe"
+      ],
+      "localLinkingText": [],
+      "type": "dfn",
+      "for": [],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "heading",
+      "links": []
+    },
+    {
+      "id": "propdef-frame-sizing",
+      "href": "https://www.w3.org/TR/css-sizing-4/#propdef-frame-sizing",
+      "linkingText": [
+        "frame-sizing"
+      ],
+      "localLinkingText": [],
+      "type": "property",
+      "for": [],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "table",
+      "links": []
+    },
+    {
+      "id": "internal-layout-intrinsic-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#internal-layout-intrinsic-size",
+      "linkingText": [
+        "internal layout intrinsic size"
+      ],
+      "localLinkingText": [],
+      "type": "dfn",
+      "for": [],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "prose",
+      "links": []
+    },
+    {
+      "id": "valdef-frame-sizing-auto",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-frame-sizing-auto",
+      "linkingText": [
+        "auto"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "frame-sizing"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-frame-sizing-content-width",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-frame-sizing-content-width",
+      "linkingText": [
+        "content-width"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "frame-sizing"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-frame-sizing-content-height",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-frame-sizing-content-height",
+      "linkingText": [
+        "content-height"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "frame-sizing"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-frame-sizing-content-block-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-frame-sizing-content-block-size",
+      "linkingText": [
+        "content-block-size"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "frame-sizing"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-frame-sizing-content-inline-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-frame-sizing-content-inline-size",
+      "linkingText": [
+        "content-inline-size"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "frame-sizing"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "responsive-iframes",
+        "href": "https://www.w3.org/TR/css-sizing-4/#responsive-iframes",
+        "title": "Responsively-sized iframes: the frame-sizing property",
+        "number": "5.3"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "document-responsive-embedded-sizing-flag",
+      "href": "https://www.w3.org/TR/css-sizing-4/#document-responsive-embedded-sizing-flag",
+      "linkingText": [
+        "responsive embedded sizing flag"
+      ],
+      "localLinkingText": [],
+      "type": "dfn",
+      "for": [
+        "Document"
+      ],
+      "access": "private",
+      "informative": false,
+      "heading": {
+        "id": "iframe-frame-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#iframe-frame-sizing",
+        "title": "HTML iframe Details",
+        "number": "5.3.1"
+      },
+      "definedIn": "prose",
+      "links": []
+    },
+    {
+      "id": "locked-embedded-icb-size",
+      "href": "https://www.w3.org/TR/css-sizing-4/#locked-embedded-icb-size",
+      "linkingText": [
+        "locked embedded ICB size"
+      ],
+      "localLinkingText": [],
+      "type": "dfn",
+      "for": [],
+      "access": "private",
+      "informative": false,
+      "heading": {
+        "id": "iframe-frame-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#iframe-frame-sizing",
+        "title": "HTML iframe Details",
+        "number": "5.3.1"
+      },
+      "definedIn": "prose",
+      "links": []
+    },
+    {
+      "id": "dom-window-requestresize",
+      "href": "https://www.w3.org/TR/css-sizing-4/#dom-window-requestresize",
+      "linkingText": [
+        "requestResize()"
+      ],
+      "localLinkingText": [],
+      "type": "method",
+      "for": [
+        "Window"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "window-requestresize",
+        "href": "https://www.w3.org/TR/css-sizing-4/#window-requestresize",
+        "title": "Extensions to the Window Interface",
+        "number": "5.3.2"
+      },
+      "definedIn": "prose",
+      "links": []
+    },
+    {
       "id": "propdef-min-intrinsic-sizing",
       "href": "https://www.w3.org/TR/css-sizing-4/#propdef-min-intrinsic-sizing",
       "linkingText": [
@@ -434,21 +748,21 @@
         "id": "intrinsic-contribution-override",
         "href": "https://www.w3.org/TR/css-sizing-4/#intrinsic-contribution-override",
         "title": "Zeroing Min-Content Size Contributions: the min-intrinsic-sizing property",
-        "number": "5.4"
+        "number": "5.5"
       },
       "definedIn": "table",
       "links": []
     },
     {
-      "id": "valdef-min-intrinsic-size-legacy",
-      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-min-intrinsic-size-legacy",
+      "id": "valdef-min-intrinsic-sizing-legacy",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-min-intrinsic-sizing-legacy",
       "linkingText": [
         "legacy"
       ],
       "localLinkingText": [],
       "type": "value",
       "for": [
-        "min-intrinsic-size"
+        "min-intrinsic-sizing"
       ],
       "access": "public",
       "informative": false,
@@ -456,21 +770,21 @@
         "id": "intrinsic-contribution-override",
         "href": "https://www.w3.org/TR/css-sizing-4/#intrinsic-contribution-override",
         "title": "Zeroing Min-Content Size Contributions: the min-intrinsic-sizing property",
-        "number": "5.4"
+        "number": "5.5"
       },
       "definedIn": "dt",
       "links": []
     },
     {
-      "id": "valdef-min-intrinsic-size-zero-if-scroll",
-      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-min-intrinsic-size-zero-if-scroll",
+      "id": "valdef-min-intrinsic-sizing-zero-if-scroll",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-min-intrinsic-sizing-zero-if-scroll",
       "linkingText": [
         "zero-if-scroll"
       ],
       "localLinkingText": [],
       "type": "value",
       "for": [
-        "min-intrinsic-size"
+        "min-intrinsic-sizing"
       ],
       "access": "public",
       "informative": false,
@@ -478,21 +792,21 @@
         "id": "intrinsic-contribution-override",
         "href": "https://www.w3.org/TR/css-sizing-4/#intrinsic-contribution-override",
         "title": "Zeroing Min-Content Size Contributions: the min-intrinsic-sizing property",
-        "number": "5.4"
+        "number": "5.5"
       },
       "definedIn": "dt",
       "links": []
     },
     {
-      "id": "valdef-min-intrinsic-size-zero-if-extrinsic",
-      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-min-intrinsic-size-zero-if-extrinsic",
+      "id": "valdef-min-intrinsic-sizing-zero-if-extrinsic",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-min-intrinsic-sizing-zero-if-extrinsic",
       "linkingText": [
         "zero-if-extrinsic"
       ],
       "localLinkingText": [],
       "type": "value",
       "for": [
-        "min-intrinsic-size"
+        "min-intrinsic-sizing"
       ],
       "access": "public",
       "informative": false,
@@ -500,7 +814,117 @@
         "id": "intrinsic-contribution-override",
         "href": "https://www.w3.org/TR/css-sizing-4/#intrinsic-contribution-override",
         "title": "Zeroing Min-Content Size Contributions: the min-intrinsic-sizing property",
-        "number": "5.4"
+        "number": "5.5"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-column-width-stretch",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-column-width-stretch",
+      "linkingText": [
+        "stretch"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "column-width"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "column-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#column-sizing",
+        "title": "New Column Sizing Values: the stretch, min-content, max-content, fit-content, and fit-content() values",
+        "number": "5.6"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-column-width-min-content",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-column-width-min-content",
+      "linkingText": [
+        "min-content"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "column-width"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "column-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#column-sizing",
+        "title": "New Column Sizing Values: the stretch, min-content, max-content, fit-content, and fit-content() values",
+        "number": "5.6"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-column-width-max-content",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-column-width-max-content",
+      "linkingText": [
+        "max-content"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "column-width"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "column-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#column-sizing",
+        "title": "New Column Sizing Values: the stretch, min-content, max-content, fit-content, and fit-content() values",
+        "number": "5.6"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-column-width-fit-content",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-column-width-fit-content",
+      "linkingText": [
+        "fit-content"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "column-width"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "column-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#column-sizing",
+        "title": "New Column Sizing Values: the stretch, min-content, max-content, fit-content, and fit-content() values",
+        "number": "5.6"
+      },
+      "definedIn": "dt",
+      "links": []
+    },
+    {
+      "id": "valdef-column-width-fit-content-length-percentage",
+      "href": "https://www.w3.org/TR/css-sizing-4/#valdef-column-width-fit-content-length-percentage",
+      "linkingText": [
+        "fit-content(<length-percentage>)"
+      ],
+      "localLinkingText": [],
+      "type": "value",
+      "for": [
+        "column-width"
+      ],
+      "access": "public",
+      "informative": false,
+      "heading": {
+        "id": "column-sizing",
+        "href": "https://www.w3.org/TR/css-sizing-4/#column-sizing",
+        "title": "New Column Sizing Values: the stretch, min-content, max-content, fit-content, and fit-content() values",
+        "number": "5.6"
       },
       "definedIn": "dt",
       "links": []
@@ -520,7 +944,7 @@
         "id": "contain-fit-sizing",
         "href": "https://www.w3.org/TR/css-sizing-4/#contain-fit-sizing",
         "title": "Contain-fit Sizing: stretching while maintaining an aspect ratio",
-        "number": "6.2"
+        "number": "6.1"
       },
       "definedIn": "heading",
       "links": []

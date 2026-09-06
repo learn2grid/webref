@@ -1,7 +1,7 @@
 {
   "type": "crawl",
   "title": "Reffy crawl",
-  "date": "2026-09-03T01:28:00.577Z",
+  "date": "2026-09-06T01:36:12.909Z",
   "options": {
     "fallback": "tr/index.json",
     "output": "report",
@@ -491,6 +491,7 @@
       "DOM-Parsing",
       "dpub-aam-1.1",
       "dpub-aria-1.1",
+      "dx-prof-1.0",
       "dx-prof-conneg",
       "edit-context",
       "eme-hdcp-version-registry",
@@ -776,10 +777,10 @@
     ]
   },
   "stats": {
-    "crawled": 417,
+    "crawled": 418,
     "errors": 0
   },
-  "crawler": "reffy-21.1.2",
+  "crawler": "reffy-21.1.3",
   "results": [
     {
       "url": "https://aomediacodec.github.io/av1-spec/av1-spec.pdf",
@@ -825,7 +826,7 @@
         "https://aomediacodec.github.io/av1-spec/"
       ],
       "crawled": "https://aomediacodec.github.io/av1-spec/av1-spec.pdf",
-      "date": "3 September 2026",
+      "date": "6 September 2026",
       "links": "links/av1-spec.json",
       "cddl": []
     },
@@ -2428,11 +2429,11 @@
       ],
       "crawled": "https://www.w3.org/TR/credential-management-1/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 02 Jul 2026 09:53:50 GMT"
+        "lastModified": "Thu, 03 Sep 2026 07:56:35 GMT"
       },
       "generator": "bikeshed",
-      "date": "2 July 2026",
-      "revision": "adb8c0273aa9c17da9ab6ce85198ddf76e329750",
+      "date": "3 September 2026",
+      "revision": "0a74859abde0e0717f34d79835de94a12431291a",
       "algorithms": "algorithms/credential-management-1.json",
       "links": "links/credential-management-1.json",
       "refs": "refs/credential-management-1.json",
@@ -8549,11 +8550,11 @@
       ],
       "crawled": "https://www.w3.org/TR/css-sizing-3/",
       "crawlCacheInfo": {
-        "lastModified": "Fri, 17 Dec 2021 00:34:42 GMT"
+        "lastModified": "Fri, 04 Sep 2026 21:46:26 GMT"
       },
       "generator": "bikeshed",
-      "date": "17 December 2021",
-      "revision": "74d32e0e545678eec748fbc75d910b35d21e2802",
+      "date": "4 September 2026",
+      "revision": "a21c626c81ca94dc624c1f81c642b1ef4806920a",
       "algorithms": "algorithms/css-sizing-3.json",
       "links": "links/css-sizing-3.json",
       "refs": "refs/css-sizing-3.json",
@@ -8618,13 +8619,15 @@
       ],
       "crawled": "https://www.w3.org/TR/css-sizing-4/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 20 May 2021 21:24:19 GMT"
+        "lastModified": "Fri, 04 Sep 2026 21:58:41 GMT"
       },
       "generator": "bikeshed",
-      "date": "20 May 2021",
-      "revision": "d029b05bf50e85d61ec4c2032f64a5e85328f1d9",
+      "date": "4 September 2026",
+      "revision": "137a8d9d698e5e4a40893e34f9353fefa8d90710",
+      "algorithms": "algorithms/css-sizing-4.json",
       "links": "links/css-sizing-4.json",
       "refs": "refs/css-sizing-4.json",
+      "idl": "idl/css-sizing-4.idl",
       "css": "css/css-sizing-4.json",
       "dfns": "dfns/css-sizing-4.json",
       "headings": "headings/css-sizing-4.json",
@@ -11049,7 +11052,7 @@
       ],
       "release": {
         "url": "https://www.w3.org/TR/did-resolution-1.0/",
-        "status": "Candidate Recommendation Snapshot",
+        "status": "Candidate Recommendation Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -11132,11 +11135,11 @@
       ],
       "crawled": "https://www.w3.org/TR/digital-credentials/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 27 Aug 2026 08:26:32 GMT"
+        "lastModified": "Fri, 04 Sep 2026 14:16:20 GMT"
       },
       "generator": "respec",
-      "date": "27 August 2026",
-      "revision": "a3b699ec293d16e4e3c2bc9e2723b99cb131830c",
+      "date": "04 September 2026",
+      "revision": "b31343b4890a39ad3aa6d2bf066db1069458da4f",
       "algorithms": "algorithms/digital-credentials.json",
       "links": "links/digital-credentials.json",
       "refs": "refs/digital-credentials.json",
@@ -11341,6 +11344,61 @@
       "refs": "refs/dpub-aria-1.1.json",
       "headings": "headings/dpub-aria-1.1.json",
       "ids": "ids/dpub-aria-1.1.json",
+      "cddl": []
+    },
+    {
+      "url": "https://www.w3.org/TR/dx-prof-1.0/",
+      "seriesComposition": "full",
+      "shortname": "dx-prof-1.0",
+      "series": {
+        "shortname": "dx-prof",
+        "currentSpecification": "dx-prof-1.0",
+        "title": "The Profiles Vocabulary",
+        "shortTitle": "The Profiles Vocabulary",
+        "releaseUrl": "https://www.w3.org/TR/dx-prof/",
+        "nightlyUrl": "https://w3c.github.io/dx-prof/prof/"
+      },
+      "seriesVersion": "1.0",
+      "nightly": {
+        "url": "https://w3c.github.io/dx-prof/prof/",
+        "status": "Editor's Draft",
+        "sourcePath": "prof/index.html",
+        "alternateUrls": [],
+        "repository": "https://github.com/w3c/dx-prof",
+        "filename": "index.html"
+      },
+      "organization": "W3C",
+      "groups": [
+        {
+          "name": "Dataset Exchange Working Group",
+          "url": "https://www.w3.org/2017/dxwg/"
+        }
+      ],
+      "release": {
+        "url": "https://www.w3.org/TR/dx-prof-1.0/",
+        "status": "First Public Working Draft",
+        "filename": "Overview.html"
+      },
+      "title": "The Profiles Vocabulary",
+      "source": "w3c",
+      "shortTitle": "The Profiles Vocabulary",
+      "categories": [],
+      "standing": "good",
+      "versions": [
+        "https://www.w3.org/TR/dx-prof-1.0/",
+        "https://w3c.github.io/dx-prof/prof/"
+      ],
+      "crawled": "https://www.w3.org/TR/dx-prof-1.0/",
+      "crawlCacheInfo": {
+        "lastModified": "Mon, 17 Aug 2026 07:45:18 GMT"
+      },
+      "generator": "respec",
+      "date": "20 August 2026",
+      "links": "links/dx-prof-1.0.json",
+      "refs": "refs/dx-prof-1.0.json",
+      "dfns": "dfns/dx-prof-1.0.json",
+      "headings": "headings/dx-prof-1.0.json",
+      "ids": "ids/dx-prof-1.0.json",
       "cddl": []
     },
     {
@@ -18106,11 +18164,11 @@
       ],
       "crawled": "https://www.w3.org/TR/rdf12-turtle/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 12 Aug 2026 10:27:47 GMT"
+        "lastModified": "Thu, 03 Sep 2026 16:51:07 GMT"
       },
       "generator": "respec",
-      "date": "12 August 2026",
-      "revision": "5043363c517929be00eda9416109a1c2c1fee8dc",
+      "date": "03 September 2026",
+      "revision": "d1bb18fd1342ea0998e3cd31303bb99afa0c3012",
       "links": "links/rdf12-turtle.json",
       "refs": "refs/rdf12-turtle.json",
       "dfns": "dfns/rdf12-turtle.json",
@@ -21820,11 +21878,11 @@
       ],
       "crawled": "https://www.w3.org/TR/vc-confidence-method/",
       "crawlCacheInfo": {
-        "lastModified": "Mon, 17 Aug 2026 16:38:41 GMT"
+        "lastModified": "Thu, 03 Sep 2026 01:33:36 GMT"
       },
       "generator": "respec",
-      "date": "17 August 2026",
-      "revision": "54889ba3ef21b2bdcec979256f44eee12a119e99",
+      "date": "03 September 2026",
+      "revision": "1fd370ac02357e1cc82774de318ae861883e2b80",
       "links": "links/vc-confidence-method.json",
       "refs": "refs/vc-confidence-method.json",
       "dfns": "dfns/vc-confidence-method.json",
@@ -21855,7 +21913,7 @@
       ],
       "release": {
         "url": "https://www.w3.org/TR/vc-data-integrity-1.1/",
-        "status": "First Public Working Draft",
+        "status": "Working Draft",
         "filename": "Overview.html"
       },
       "nightly": {
@@ -22042,11 +22100,11 @@
       ],
       "crawled": "https://www.w3.org/TR/vc-data-model-2.1/",
       "crawlCacheInfo": {
-        "lastModified": "Sun, 16 Aug 2026 13:12:53 GMT"
+        "lastModified": "Sat, 05 Sep 2026 21:09:54 GMT"
       },
       "generator": "respec",
-      "date": "16 August 2026",
-      "revision": "1d870d992cc45e5e189670512c399c80b0a3e558",
+      "date": "05 September 2026",
+      "revision": "28545b3f884daa2920adb7ef71efe08837f29006",
       "algorithms": "algorithms/vc-data-model-2.1.json",
       "links": "links/vc-data-model-2.1.json",
       "refs": "refs/vc-data-model-2.1.json",
@@ -22602,11 +22660,11 @@
       ],
       "crawled": "https://www.w3.org/TR/vc-recognized-entities-1.0/",
       "crawlCacheInfo": {
-        "lastModified": "Sat, 22 Aug 2026 20:58:06 GMT"
+        "lastModified": "Sat, 05 Sep 2026 21:53:52 GMT"
       },
       "generator": "respec",
-      "date": "22 August 2026",
-      "revision": "9e2ec9769486be620f85fc07b428d60c7285b5d9",
+      "date": "05 September 2026",
+      "revision": "84581ea61659ba18e3fc0694465442f54758dd1c",
       "algorithms": "algorithms/vc-recognized-entities-1.0.json",
       "links": "links/vc-recognized-entities-1.0.json",
       "refs": "refs/vc-recognized-entities-1.0.json",
@@ -23118,11 +23176,11 @@
       ],
       "crawled": "https://www.w3.org/TR/vocab-ssn-2023/",
       "crawlCacheInfo": {
-        "lastModified": "Wed, 19 Aug 2026 17:41:36 GMT"
+        "lastModified": "Fri, 04 Sep 2026 03:13:36 GMT"
       },
       "generator": "respec",
-      "date": "19 August 2026",
-      "revision": "37fa55298187464b41c3712620dcbf5bd438b1b2",
+      "date": "04 September 2026",
+      "revision": "95c7549d1ad21052e7c881d7e944da8f21898c4f",
       "links": "links/vocab-ssn-2023.json",
       "refs": "refs/vocab-ssn-2023.json",
       "dfns": "dfns/vocab-ssn-2023.json",
@@ -25225,11 +25283,11 @@
       ],
       "crawled": "https://www.w3.org/TR/webdriver-bidi/",
       "crawlCacheInfo": {
-        "lastModified": "Tue, 01 Sep 2026 05:10:57 GMT"
+        "lastModified": "Thu, 03 Sep 2026 18:58:07 GMT"
       },
       "generator": "bikeshed",
-      "date": "1 September 2026",
-      "revision": "9a7f8b6ab273fcf799e494ae4e668086191a9c85",
+      "date": "3 September 2026",
+      "revision": "242588ec0f4320cda30ec8a7ca1093f86641d3c5",
       "algorithms": "algorithms/webdriver-bidi.json",
       "links": "links/webdriver-bidi.json",
       "refs": "refs/webdriver-bidi.json",
@@ -25497,11 +25555,11 @@
       ],
       "crawled": "https://www.w3.org/TR/webnn/",
       "crawlCacheInfo": {
-        "lastModified": "Thu, 13 Aug 2026 03:33:39 GMT"
+        "lastModified": "Fri, 04 Sep 2026 23:48:49 GMT"
       },
       "generator": "bikeshed",
-      "date": "13 August 2026",
-      "revision": "36224cf52a6c54ca8abe42c7f8ce1b65b72bd1a2",
+      "date": "4 September 2026",
+      "revision": "f4a9b25c1e2088ef852eaab78115a3f721323683",
       "algorithms": "algorithms/webnn.json",
       "links": "links/webnn.json",
       "refs": "refs/webnn.json",

@@ -98,28 +98,28 @@
       "id": "preferred-size-properties",
       "href": "https://www.w3.org/TR/css-sizing-3/#preferred-size-properties",
       "level": 4,
-      "title": "Preferred Size Properties: the width and height properties",
+      "title": "Preferred Size Properties: the width, height, inline-size, and block-size properties",
       "number": "3.1.1"
     },
     {
       "id": "min-size-properties",
       "href": "https://www.w3.org/TR/css-sizing-3/#min-size-properties",
       "level": 4,
-      "title": "Minimum Size Properties: the min-width and min-height properties",
+      "title": "Minimum Size Properties: the min-width, min-height, min-inline-size, and min-block-size properties",
       "number": "3.1.2"
     },
     {
       "id": "max-size-properties",
       "href": "https://www.w3.org/TR/css-sizing-3/#max-size-properties",
       "level": 4,
-      "title": "Maximum Size Properties: the max-width and max-height properties",
+      "title": "Maximum Size Properties: the max-width, max-height, max-inline-size, and max-block-size properties",
       "number": "3.1.3"
     },
     {
       "id": "sizing-values",
       "href": "https://www.w3.org/TR/css-sizing-3/#sizing-values",
       "level": 3,
-      "title": "Sizing Values: the <length-percentage>, auto | none, min-content, max-content, and fit-content() values",
+      "title": "Sizing Values: the <length-percentage>, auto | none, stretch, min-content, max-content, and fit-content values",
       "number": "3.2"
     },
     {
@@ -147,7 +147,7 @@
       "id": "column-sizing",
       "href": "https://www.w3.org/TR/css-sizing-3/#column-sizing",
       "level": 3,
-      "title": "New Column Sizing Values: the min-content, max-content, and fit-content() values",
+      "title": "New Column Sizing Values: the stretch, min-content, max-content, and fit-content values",
       "number": "3.4"
     },
     {
@@ -163,6 +163,13 @@
       "level": 3,
       "title": "Percentage Sizing",
       "number": "4.1"
+    },
+    {
+      "id": "stretch-fit-sizing",
+      "href": "https://www.w3.org/TR/css-sizing-3/#stretch-fit-sizing",
+      "level": 3,
+      "title": "Stretch-fit Sizing: filling the containing block",
+      "number": "4.2"
     },
     {
       "id": "intrinsic",
@@ -224,10 +231,16 @@
       "title": "Acknowledgments"
     },
     {
-      "id": "priv-sec",
-      "href": "https://www.w3.org/TR/css-sizing-3/#priv-sec",
+      "id": "privacy",
+      "href": "https://www.w3.org/TR/css-sizing-3/#privacy",
       "level": 2,
-      "title": "Privacy and Security Considerations"
+      "title": "Privacy Considerations"
+    },
+    {
+      "id": "security",
+      "href": "https://www.w3.org/TR/css-sizing-3/#security",
+      "level": 2,
+      "title": "Security Considerations"
     },
     {
       "id": "w3c-conformance",
@@ -299,7 +312,7 @@
       "id": "informative",
       "href": "https://www.w3.org/TR/css-sizing-3/#informative",
       "level": 3,
-      "title": "Informative References"
+      "title": "Non-Normative References"
     },
     {
       "id": "property-index",

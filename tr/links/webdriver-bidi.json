@@ -50,7 +50,6 @@
       "https://w3c.github.io/mediacapture-screen-share/": {},
       "https://w3c.github.io/resource-timing/": {},
       "https://w3c.github.io/screen-orientation/": {},
-      "https://w3c.github.io/svgwg/svg2-draft/": {},
       "https://w3c.github.io/touch-events/": {},
       "https://w3c.github.io/webdriver/": {},
       "https://w3c.github.io/webtransport/": {},
@@ -361,6 +360,7 @@
           "dom-canvas-height",
           "2d-context-creation-algorithm",
           "concept-canvas-2d",
+          "output-bitmap",
           "a-serialisation-of-the-bitmap-as-a-file"
         ]
       },
@@ -623,6 +623,8 @@
       },
       "https://tc39.es/ecma402/": {
         "anchors": [
+          "finite",
+          "integral-number",
           "sec-isstructurallyvalidlanguagetag"
         ]
       },
@@ -654,11 +656,6 @@
       "https://w3c.github.io/resource-timing/": {
         "anchors": [
           "dfn-convert-fetch-timestamp"
-        ]
-      },
-      "https://w3c.github.io/svgwg/svg2-draft/coords.html": {
-        "anchors": [
-          "TermCanvas"
         ]
       },
       "https://w3c.github.io/webdriver/": {

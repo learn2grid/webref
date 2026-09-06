@@ -238,12 +238,6 @@
           "flat-tree"
         ]
       },
-      "https://drafts.csswg.org/css-sizing-3/": {
-        "anchors": [
-          "block-size",
-          "inline-size"
-        ]
-      },
       "https://html.spec.whatwg.org/multipage/canvas.html": {
         "anchors": [
           "canvas"
@@ -505,6 +499,8 @@
       "https://www.w3.org/TR/css-sizing-3/": {
         "anchors": [
           "propdef-box-sizing",
+          "block-size",
+          "inline-size",
           "propdef-width",
           "propdef-height",
           "sizing-property"

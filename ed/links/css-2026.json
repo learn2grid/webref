@@ -69,6 +69,7 @@
           "content-distribute",
           "content-distribution-properties",
           "coordinated-self-alignment-preference",
+          "overflow-position-default-overflow-alignment",
           "distributed-alignment",
           "fallback-alignment",
           "first-baseline-alignment",
@@ -3369,6 +3370,7 @@
           "idl-attribute-to-css-property",
           "css-declaration-important-flag",
           "insert-a-css-rule",
+          "intermixed-properties",
           "last-css-style-sheet-set-name",
           "concept-css-style-sheet-location",
           "concept-css-style-sheet-media",
@@ -3420,6 +3422,7 @@
           "serialize-a-simple-selector",
           "serialize-a-url",
           "serialize-a-whitespace-separated-list",
+          "serialize-into-a-shorthand-form",
           "set",
           "set-a-css-declaration",
           "concept-declarations-specified-order",
@@ -4243,9 +4246,7 @@
       "https://www.w3.org/TR/css-shapes-1/": {},
       "https://www.w3.org/TR/css-sizing-3/": {
         "anchors": [
-          "sizing-values",
-          "valdef-column-width-fit-content-length-percentage",
-          "valdef-width-fit-content-length-percentage"
+          "sizing-values"
         ]
       },
       "https://www.w3.org/TR/css-speech-1/": {},
@@ -4294,7 +4295,11 @@
         ]
       },
       "https://www.w3.org/TR/css3-mediaqueries/": {},
-      "https://www.w3.org/TR/cssom-1/": {},
+      "https://www.w3.org/TR/cssom-1/": {
+        "anchors": [
+          "concept-shorthands-preferred-order"
+        ]
+      },
       "https://www.w3.org/TR/cssom-view-1/": {
         "anchors": [
           "visualviewport-associated-document",

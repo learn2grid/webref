@@ -1096,12 +1096,6 @@
           "css-tree-scoped-name"
         ]
       },
-      "https://drafts.csswg.org/css-sizing-3/": {
-        "anchors": [
-          "inline-size",
-          "block-size"
-        ]
-      },
       "https://drafts.csswg.org/css-syntax-3/": {
         "anchors": [
           "typedef-block-contents"
@@ -1253,7 +1247,9 @@
         "anchors": [
           "width",
           "height",
-          "size"
+          "size",
+          "inline-size",
+          "block-size"
         ]
       },
       "https://www.w3.org/TR/css-syntax-3/": {

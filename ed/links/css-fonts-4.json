@@ -615,7 +615,11 @@
       "https://docs.microsoft.com/en-us/typography/opentype/spec/svg": {},
       "https://docs.microsoft.com/en-us/typography/opentype/spec/vvar": {},
       "https://drafts.csswg.org/css-cascade-5/": {},
-      "https://drafts.csswg.org/css-color-4/": {},
+      "https://drafts.csswg.org/css-color-4/": {
+        "anchors": [
+          "interpolation"
+        ]
+      },
       "https://drafts.csswg.org/css-color-5/": {
         "anchors": [
           "color-mix-percent-norm"
@@ -656,6 +660,8 @@
       "https://github.com/w3c/csswg-drafts/issues/12981": {},
       "https://github.com/w3c/csswg-drafts/issues/13263": {},
       "https://github.com/w3c/csswg-drafts/issues/14306": {},
+      "https://github.com/w3c/csswg-drafts/issues/14397": {},
+      "https://github.com/w3c/csswg-drafts/issues/14452": {},
       "https://github.com/w3c/csswg-drafts/issues/2295": {},
       "https://github.com/w3c/csswg-drafts/issues/3658": {},
       "https://github.com/w3c/csswg-drafts/issues/4055": {
@@ -1828,7 +1834,8 @@
       },
       "https://drafts.csswg.org/css-color-4/": {
         "anchors": [
-          "propdef-color"
+          "propdef-color",
+          "valdef-oklab-oklab"
         ]
       },
       "https://drafts.csswg.org/css-color-5/": {

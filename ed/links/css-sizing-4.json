@@ -458,6 +458,7 @@
       "https://drafts.csswg.org/css-writing-modes-4/": {},
       "https://drafts.csswg.org/css2/": {},
       "https://drafts.csswg.org/cssom-view/": {},
+      "https://drafts.csswg.org/cssom/": {},
       "https://drafts.csswg.org/resize-observer/": {},
       "https://github.com/w3c/csswg-drafts/issues": {},
       "https://github.com/w3c/csswg-drafts/issues/10601": {},
@@ -1456,6 +1457,11 @@
           "propdef-max-width",
           "propdef-max-height",
           "doclanguage"
+        ]
+      },
+      "https://drafts.csswg.org/cssom-1/": {
+        "anchors": [
+          "concept-shorthands-preferred-order"
         ]
       },
       "https://drafts.csswg.org/cssom-view-1/": {
